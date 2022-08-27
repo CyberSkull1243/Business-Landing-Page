@@ -1,17 +1,14 @@
-## ⭐ Business Landing Page Project 12 ⭐
+## ⭐ Business Landing Page ⭐
 
-This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
+This is an Business website landing page, built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://business-landing-page-0012.netlify.app/">**Visit Now** 🚀</a>
-
-<br>
 
 ## 📌 Tech Stack
 
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/CyberSkull1243)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/CyberSkull1243)&nbsp;
 <br>
 <br>
 
@@ -21,29 +18,19 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 ![Screenshot](./images/screenshot.png?raw=true "Template Screenshot")
 
-## 📌 My process
 
-- I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
-- This project is given us as assignment.
-- It took me about **4 hours** to complete this project.
-- I have started coding this project on 29-07-2022 at 3am at night and finished at 7am in morning.
 
-## 📌 What I Learn
+## 📌 What Creative things Did I Used In This Project
 
-👉 learn about z-pattern of deisgning feature section.  
-👉 Learn Component based design where I created generic components.  
-👉 Learn new call to action section design and implemented it.  
+👉 Used z-pattern for deisgning feature section.  
+👉 Used Component based design where I created generic components.  
+👉 Used new call to action section design and implemented it.  
 👉 placed elements using flex and width property.  
-👉 How to develope full fledge landing page.  
-👉 Learn how to use grid for footer columns and employee section.
+
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)
+- **LinkedIn** - [Vrushal Bhilpawar](https://in.linkedin.com/in/vrushal-bhilpawar-888629201)
+- **Fiverr** - [Vrushal3012](https://www.fiverr.com/users/vrushal3012/seller_dashboard)
 
-## 📌 Acknowledgments
 
-- Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
